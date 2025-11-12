@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Book Tracker</string>
+    <string name="add_book">Adicionar Livro</string>
+    <string name="book_details">Detalhes do Livro</string>
+    <string name="search_books">Buscar Livros</string>
+    <string name="statistics">Estatísticas</string>
+    <string name="home">Início</string>
+    <string name="search">Buscar</string>
+    <string name="stats">Estatísticas</string>
+</resources>
