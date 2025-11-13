@@ -72,4 +72,4 @@ Projeto desenvolvido para fins educacionais.
 
 ---
 
-⭐ Desenvolvido com Kotlin e ❤️
+Desenvolvido com Kotlin
